@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\igu\CargaDeDatos.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\igu\ModificarDatos.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\igu\Principal.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\igu\verDatos.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\logica\Controladora.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\logica\Duenio.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\logica\Mascota.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\PerruqueriaCanina.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\persistencia\ControladoraPersistencia.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\persistencia\DuenioJpaController.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\Angel\Desktop\PerruqueriaCanina\src\main\java\com\mycompany\perruqueriacanina\persistencia\MascotaJpaController.java
